@@ -1,2 +1,2 @@
-# KeyboardCommandDetector
+# KeyboardCommandDetectorJS
 Detect keybard-command
